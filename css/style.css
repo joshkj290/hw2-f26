@@ -44,6 +44,7 @@ div {
     background-color: #FF0000;
     text-align: right;
     margin-left: 50px;
+    border: none;
     border-bottom: 2px solid #FFFFFF;
     border-left: 5px solid #FFFFFF;
 }
@@ -52,6 +53,7 @@ div {
     background-color: #0000FF;
     text-align: left;
     margin-right: 50px;
+    border: none;
     border-right: 5px solid #FFFFFF;
     border-top: 2px solid #FFFFFF;
 }
@@ -65,6 +67,7 @@ div {
     background-color: #FFFF00;
     text-align: right;
     margin-left: 50px;
+    border: none;
     border-bottom: 2px solid #FFFFFF;
     border-left: 5px solid #FFFFFF;
 }
@@ -77,6 +80,7 @@ div {
     background-color: #00D800;
     text-align: left;
     margin-right: 50px;
+    border: none;
     border-right: 5px solid #FFFFFF;
     border-top: 2px solid #FFFFFF;
 }
